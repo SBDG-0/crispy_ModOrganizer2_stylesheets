@@ -39,11 +39,7 @@ Mod Organizer 2.5.2
 ## Credits
 
 - **Sayngwyn by Sayngwyn:** https://www.nexusmods.com/site/mods/2487
-
 - **Night Eyes by Ciathyza:** https://github.com/ciathyza/mo2-themes.
-
-
-Original theme and icon credits remain with their respective creators. See the linked theme pages for their permissions and further credits.
 
 - **vs15 Dark preview controls:** chintsu_kun, holt59 and the MO2 Team; [theme source](https://github.com/nikolay-borzov/modorganizer-themes), GPLv3. The license is included in `licenses/VS15-GPL-v3.0.txt`.
 - **Microsoft Fluent System Icons:** Their license texts are retained in `licenses/`.
