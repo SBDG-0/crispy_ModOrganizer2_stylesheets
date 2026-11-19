@@ -15,7 +15,7 @@ icons and checkmarks. <br> Their original styling and attribution are preserved.
 - `+Steam.qss`
 
 <p align=center >
-<img width="500"  alt="main" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/%2Bvariant1.png?raw=true"/> <img width="500"  alt="main" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/%2Bvariant2.png?raw=true" />
+<img width="450"  alt="main" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/%2Bvariant1.png?raw=true"/> <img width="450"  alt="main" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/%2Bvariant2.png?raw=true" />
 <img width="500"  alt="main" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/%2Bvariant3.png?raw=true" /> <img width="500"  alt="main" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/%2Bvariant4.png?raw=true" />
 </p>
 
