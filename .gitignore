@@ -3,6 +3,7 @@ __pycache__/
 
 .local-backups/
 .resource/
+.releases/
 
 # BEGIN local Codex files
 # Keep assistant guidance/configuration and local working backups off Git.
