@@ -7,15 +7,21 @@ A collection of my custom stylesheets for Mod Organizer 2, shared for anyone who
 ## Themes
 
 The following themes are included in `stylesheets` with centered context-menu
-icons and checkmarks. Their original styling and attribution are preserved.
+icons and checkmarks. <br> Their original styling and attribution are preserved.
 
 - `vs15 Dark+ Steam.qss`
 - `vs15 Dark+ Slate Teal.qss`
 - `vs15 Dark+ GitHub.qss`
+
+<br>
+
 - `Night Eyes+ Steam.qss`
 - `Night Eyes+ Contrast.qss`
 - `Night Eyes+ GitHub.qss`
 - `Night Eyes+ Slate Teal.qss`
+
+<br>
+
 - `+Steam.qss`
 - `+GitHub.qss`
 - `+Sayngwyn Red.qss`
@@ -40,8 +46,7 @@ Mod Organizer 2.5.2
 
 - **Sayngwyn by Sayngwyn:** https://www.nexusmods.com/site/mods/2487
 - **Night Eyes by Ciathyza:** https://github.com/ciathyza/mo2-themes.
-
-- **vs15 Dark preview controls:** chintsu_kun, holt59 and the MO2 Team; [theme source](https://github.com/nikolay-borzov/modorganizer-themes), GPLv3. The license is included in `licenses/VS15-GPL-v3.0.txt`.
+- **vs15 Dark preview controls:** chintsu_kun, holt59 and the MO2 Team: https://github.com/nikolay-borzov/modorganizer-themes
 - **Microsoft Fluent System Icons:** Their license texts are retained in `licenses/`.
 
 Original licenses, credits and restrictions continue to apply to their respective assets.

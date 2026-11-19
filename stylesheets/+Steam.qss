@@ -176,3 +176,131 @@ QMenu::icon { position: relative; left: 12px; }
 QMenu::indicator { position: relative; left: 12px; }
 /* Keyboard focus uses an outline; persistent fills belong to hover, press and checked states. */
 QPushButton:focus, QToolButton:focus { border-color: #66C0F4; }
+
+
+/* Fluent Regular: pale icons for dark themes.
+   Copy any complete section below AFTER your base theme.
+   Keep mo2-icon-test-assets beside the destination stylesheet.
+   Icon-only overrides; toolbar selectors must remain unscoped. */
+/* ==================== Toolbar ==================== */
+/* Change game / instance */
+QToolButton#actionChange_Game { qproperty-icon: url("./res+/change_game.svg"); }
+/* Install mod archive */
+QToolButton#actionInstallMod { qproperty-icon: url("./res+/install_mod.svg"); }
+/* Nexus / game mod page */
+QToolButton#actionNexus, QToolButton#actionModPage { qproperty-icon: url("./res+/nexus_browser.svg"); }
+/* Configure profiles */
+QToolButton#actionAdd_Profile { qproperty-icon: url("./res+/profiles.svg"); }
+/* Refresh MO2 */
+QToolButton#action_Refresh { qproperty-icon: url("./res+/refresh_main.svg"); }
+/* Modify executables */
+QToolButton#actionModify_Executables { qproperty-icon: url("./res+/executables.svg"); }
+/* Tool plugins */
+QToolButton#actionTool { qproperty-icon: url("./res+/tools_menu.svg"); }
+/* Settings */
+QToolButton#actionSettings { qproperty-icon: url("./res+/settings.svg"); }
+/* Endorse MO2 */
+QToolButton#actionEndorseMO { qproperty-icon: url("./res+/endorse_mo.svg"); }
+/* Notifications / problems */
+QToolButton#actionNotifications { qproperty-icon: url("./res+/notifications.svg"); }
+/* Check for updates */
+QToolButton#actionUpdate { qproperty-icon: url("./res+/update_mo.svg"); }
+/* Help / tutorials */
+QToolButton#actionHelp { qproperty-icon: url("./res+/help_menu.svg"); }
+/* ==================== Mod list ==================== */
+/* List options */
+#MainWindow QPushButton#listOptionsBtn { qproperty-icon: url("./res+/list_options.svg"); }
+/* Open folders menu */
+#MainWindow QPushButton#openFolderMenu { qproperty-icon: url("./res+/open_folder.svg"); }
+/* Clear all filters */
+#MainWindow QPushButton#clearFiltersButton { qproperty-icon: url("./res+/clear_filters.svg"); }
+/* ==================== Mod / plugin lists ==================== */
+/* Restore backup */
+#MainWindow QPushButton#restoreModsButton, #MainWindow QPushButton#restoreButton { qproperty-icon: url("./res+/restore_backup.svg"); }
+/* Create backup */
+#MainWindow QPushButton#saveModsButton, #MainWindow QPushButton#saveButton { qproperty-icon: url("./res+/create_backup.svg"); }
+/* ==================== Right pane ==================== */
+/* Run executable */
+#MainWindow QPushButton#startButton { qproperty-icon: url("./res+/run_start.svg"); }
+/* Create shortcut */
+#MainWindow QPushButton#linkButton { qproperty-icon: url("./res+/nexus_info_visit.svg"); }
+/* ==================== Data / Downloads ==================== */
+/* Refresh data / downloads */
+#MainWindow QPushButton#dataTabRefresh, #MainWindow QPushButton#btnRefreshDownloads { qproperty-icon: url("./res+/refresh_data.svg"); }
+/* ==================== Instance manager ==================== */
+/* Create instance */
+#InstanceManagerDialog QPushButton#createNew { qproperty-icon: url("./res+/instance_create.svg"); }
+/* Delete instance */
+#InstanceManagerDialog QPushButton#deleteInstance { qproperty-icon: url("./res+/instance_delete.svg"); }
+/* Switch instance */
+#InstanceManagerDialog QPushButton#switchToInstance { qproperty-icon: url("./res+/instance_switch.svg"); }
+/* ==================== Modify executables ==================== */
+/* Add executable */
+#EditExecutablesDialog QToolButton#add { qproperty-icon: url("./res+/exec_add.svg"); }
+/* Remove executable */
+#EditExecutablesDialog QToolButton#remove { qproperty-icon: url("./res+/exec_remove.svg"); }
+/* Move executable up */
+#EditExecutablesDialog QToolButton#up { qproperty-icon: url("./res+/exec_up.svg"); }
+/* Move executable down */
+#EditExecutablesDialog QToolButton#down { qproperty-icon: url("./res+/exec_down.svg"); }
+/* Reset executable list */
+#EditExecutablesDialog QToolButton#reset { qproperty-icon: url("./res+/exec_reset.svg"); }
+/* ==================== Settings / Nexus ==================== */
+/* Disconnect from Nexus */
+#SettingsDialog QPushButton#nexusDisconnect { qproperty-icon: url("./res+/nexus_disconnect.svg"); }
+/* ==================== Mod info / Optional ESPs ==================== */
+/* Activate ESP (right) */
+#ModInfoDialog QToolButton#activateESP { qproperty-icon: url("./res+/esp_activate.svg"); }
+/* Deactivate ESP (left) */
+#ModInfoDialog QToolButton#deactivateESP { qproperty-icon: url("./res+/esp_deactivate.svg"); }
+/* ==================== Mod info / Nexus ==================== */
+/* Refresh mod information */
+#ModInfoDialog QPushButton#refresh { qproperty-icon: url("./res+/nexus_info_refresh.svg"); }
+/* Open Nexus / custom URL */
+#ModInfoDialog QPushButton#visitNexus, #ModInfoDialog QPushButton#visitCustomURL { qproperty-icon: url("./res+/nexus_info_visit.svg"); }
+/* Endorse mod */
+#ModInfoDialog QPushButton#endorse { qproperty-icon: url("./res+/nexus_info_endorse.svg"); }
+/* Track mod */
+#ModInfoDialog QPushButton#track { qproperty-icon: url("./res+/nexus_info_track.svg"); }
+/* ==================== Plugins ==================== */
+/* Sort plugins */
+#MainWindow QPushButton#sortButton { qproperty-icon: url("./res+/sort_plugins.svg"); }
+/* ==================== Settings / Workarounds ==================== */
+/* Back-date BSAs */
+#SettingsDialog QPushButton#bsaDateBtn { qproperty-icon: url("./res+/backdate.svg"); }
+/* ==================== View menu ==================== */
+/* Show / hide Log */
+QToolButton#actionViewLog { qproperty-icon: url("./res+/view_log.svg"); }
+/* ==================== Top menu: Toolbars and Exit ==================== */
+/* QMenu.icon controls the submenu entry; Exit uses MO2's named-action proxy. */
+/* Toolbars submenu */
+QMenu#menuToolbars { qproperty-icon: url("./res+/view_toolbars.svg"); }
+/* Exit */
+QToolButton#actionExit { qproperty-icon: url("./res+/file_exit.svg"); }
+/* ==================== Nexus cache ==================== */
+/* Clear Cache: broom icon. */
+#SettingsDialog QPushButton#clearCacheButton { qproperty-icon: url("./res+/nexus_clear_cache.svg"); }
+/* ====================       Tool plugins          ==================== */
+/* Requires MO2 Icons Menu helper 1.1.0. Existing plugin icons are preserved. */
+/* Requires plugins/mo2_icons_menu.py; actions are unnamed in stock MO2. */
+/* ====================Tool plugins: shortcut menu ==================== */
+/* Toolbar and Menu */
+QToolButton#actionMO2IconsShortcutToolbar { qproperty-icon: url("./res+/link.svg"); }
+/* Desktop */
+QToolButton#actionMO2IconsShortcutDesktop { qproperty-icon: url("./res+/shortcut.svg"); }
+/* Start Menu */
+QToolButton#actionMO2IconsShortcutStartMenu { qproperty-icon: url("./res+/shortcut.svg"); }
+/* ==================== Tool plugins: missing icons ==================== */
+/* BSA Packer (missing icon) */
+QToolButton#actionMO2IconsToolArchive { qproperty-icon: url("./res+/install_mod.svg"); }
+/* Loot Paks (missing icon) */
+QToolButton#actionMO2IconsToolSort { qproperty-icon: url("./res+/sort_plugins.svg"); }
+/* Plugin Browser (missing icon) */
+QToolButton#actionMO2IconsToolBrowse { qproperty-icon: url("./res+/tools_menu.svg"); }
+/* Other tool plugins (missing icon) */
+QToolButton#actionMO2IconsToolFallback { qproperty-icon: url("./res+/tools_menu.svg"); }
+/* ==================== Tool plugins: icon bridges ==================== */
+/* Download warning (no metadata) */
+QToolButton#actionMO2IconsDownloadWarning { qproperty-icon: url("./res+/notifications.svg"); }
+/* Mod Info: Nexus Info tab icon */
+QToolButton#actionMO2IconsNexusTab { qproperty-icon: url("./res+/nexus_browser.svg"); }
