@@ -9,23 +9,37 @@ A collection of my custom stylesheets for Mod Organizer 2, shared for anyone who
 The following themes are included in `stylesheets` with centered context-menu
 icons and checkmarks. <br> Their original styling and attribution are preserved.
 
-- `vs15 Dark+ Steam.qss`
-- `vs15 Dark+ Slate Teal.qss`
-- `vs15 Dark+ GitHub.qss`
-
-<br>
-
-- `Night Eyes+ Steam.qss`
-- `Night Eyes+ Contrast.qss`
-- `Night Eyes+ GitHub.qss`
-- `Night Eyes+ Slate Teal.qss`
-
-<br>
-
-- `+Steam.qss`
 - `+GitHub.qss`
 - `+Sayngwyn Red.qss`
 - `+Slate Teal.qss`
+- `+Steam.qss`
+
+<p align=center >
+<img width="500"  alt="main" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/%2Bvariant1.png?raw=true"/> <img width="500"  alt="main" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/%2Bvariant2.png?raw=true" />
+<img width="500"  alt="main" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/%2Bvariant3.png?raw=true" /> <img width="500"  alt="main" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/%2Bvariant4.png?raw=true" />
+</p>
+
+<br>
+
+- `Night Eyes+ GitHub.qss`
+- `Night Eyes+ Contrast.qss`
+- `Night Eyes+ Slate Teal.qss`
+- `Night Eyes+ Steam.qss`
+
+<p align=center >
+<img width="500"  alt="main" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/night%2Bvariant1.png?raw=true" /> <img width="500"  alt="main" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/night%2Bvariant0.png?raw=true"/>
+<img width="500"  alt="main" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/night%2Bvariant2.png?raw=true" /> <img width="500"  alt="main" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/night%2Bvariant3.png?raw=true" /> 
+</p>
+
+<br>
+
+- `vs15 Dark+ GitHub.qss`
+- `vs15 Dark+ Slate Teal.qss`
+- `vs15 Dark+ Steam.qss`
+
+<p align=center >
+<img width="330"  alt="main" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/vs15%2Bvariant1.png?raw=true" /> <img width="330"  alt="main" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/vs15%2Bvariant2.png?raw=true" /> <img width="330"  alt="main" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/vs15%2Bvariant3.png?raw=true" />
+</p>
 
 ## Features
 
