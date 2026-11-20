@@ -16,12 +16,12 @@ icons and checkmarks. <br> Their original styling and attribution are preserved.
 
 <table>
   <tr>
-    <td width="50%"><img width="100%" alt="GitHub" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/%2Bvariant1.png?raw=true"></td>
-    <td width="50%"><img width="100%" alt="Sayngwyn Red" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/%2Bvariant2.png?raw=true"></td>
+    <td width="50%"><p align="center">+GitHub.qss</p><img width="100%" alt="GitHub" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/%2Bvariant1.png?raw=true"></td>
+    <td width="50%"><p align="center">+Sayngwyn Red.qss</p><img width="100%" alt="Sayngwyn Red" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/%2Bvariant2.png?raw=true"></td>
   </tr>
   <tr>
-    <td><img width="100%" alt="Slate Teal" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/%2Bvariant3.png?raw=true"></td>
-    <td><img width="100%" alt="Steam" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/%2Bvariant4.png?raw=true"></td>
+    <td><p align="center">+Slate Teal.qss</p><img width="100%" alt="Slate Teal" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/%2Bvariant3.png?raw=true"></td>
+    <td><p align="center">+Steam.qss</p><img width="100%" alt="Steam" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/%2Bvariant4.png?raw=true"></td>
   </tr>
 </table>
 
@@ -32,15 +32,14 @@ icons and checkmarks. <br> Their original styling and attribution are preserved.
 - `Night Eyes+ Slate Teal.qss`
 - `Night Eyes+ Steam.qss`
 
-
 <table>
   <tr>
-    <td width="50%"><img width="100%" alt="Night Eyes GitHub" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/night%2Bvariant1.png?raw=true"></td>
-    <td width="50%"><img width="100%" alt="Night Eyes Contrast" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/night%2Bvariant0.png?raw=true"></td>
+    <td width="50%"><p align="center">Night Eyes+ GitHub.qss</p><img width="100%" alt="Night Eyes GitHub" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/night%2Bvariant1.png?raw=true"></td>
+    <td width="50%"><p align="center">Night Eyes+ Contrast.qss</p><img width="100%" alt="Night Eyes Contrast" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/night%2Bvariant0.png?raw=true"></td>
   </tr>
   <tr>
-    <td><img width="100%" alt="Night Eyes Slate Teal" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/night%2Bvariant2.png?raw=true"></td>
-    <td><img width="100%" alt="Night Eyes Steam" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/night%2Bvariant3.png?raw=true"></td>
+    <td><p align="center">Night Eyes+ Slate Teal.qss</p><img width="100%" alt="Night Eyes Slate Teal" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/night%2Bvariant2.png?raw=true"></td>
+    <td><p align="center">Night Eyes+ Steam.qss</p><img width="100%" alt="Night Eyes Steam" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/night%2Bvariant3.png?raw=true"></td>
   </tr>
 </table>
 
@@ -52,9 +51,9 @@ icons and checkmarks. <br> Their original styling and attribution are preserved.
 
 <table>
   <tr>
-    <td width="33%"><img width="100%" alt="vs15 Dark GitHub" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/vs15%2Bvariant1.png?raw=true"></td>
-    <td width="33%"><img width="100%" alt="vs15 Dark Slate Teal" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/vs15%2Bvariant2.png?raw=true"></td>
-    <td width="34%"><img width="100%" alt="vs15 Dark Steam" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/vs15%2Bvariant3.png?raw=true"></td>
+    <td width="33%"><p align="center">vs15 Dark+ GitHub.qss</p><img width="100%" alt="vs15 Dark GitHub" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/vs15%2Bvariant1.png?raw=true"></td>
+    <td width="33%"><p align="center">vs15 Dark+ Slate Teal.qss</p><img width="100%" alt="vs15 Dark Slate Teal" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/vs15%2Bvariant2.png?raw=true"></td>
+    <td width="34%"><p align="center">vs15 Dark+ Steam.qss</p><img width="100%" alt="vs15 Dark Steam" src="https://github.com/SBDG-0/crispy_ModOrganizer2_stylesheets/blob/main/.previews/vs15%2Bvariant3.png?raw=true"></td>
   </tr>
 </table>
 
