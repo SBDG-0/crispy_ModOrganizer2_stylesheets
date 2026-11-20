@@ -176,6 +176,11 @@ QMenu::icon { position: relative; left: 12px; }
 QMenu::indicator { position: relative; left: 12px; }
 /* Keyboard focus uses an outline; persistent fills belong to hover, press and checked states. */
 QPushButton:focus, QToolButton:focus { border-color: #4493f8; }
+/* Fix Mod Exists (reinstall) dialog layout */
+QDialog#QueryOverwriteDialog { min-width: 565px; }
+QDialog#QueryOverwriteDialog QPushButton { margin-left: 0.5em; }
+QDialog QPushButton { min-width: 1.5em; }
+
 
 /* Fluent Regular: pale icons for dark themes.
    Copy any complete section below AFTER your base theme.

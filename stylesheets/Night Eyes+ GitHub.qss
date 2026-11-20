@@ -187,6 +187,10 @@ QLineEdit[valid-filter="false"] { background: #642E36; color: #FFFFFF; border: 1
 /* Centered menu icon gutter: preserve text padding and submenu arrows. */
 QMenu::icon { position: relative; left: 11px; }
 QMenu::indicator { position: relative; left: 12px; }
+/* Fix Mod Exists (reinstall) dialog layout */
+QDialog#QueryOverwriteDialog { min-width: 565px; }
+QDialog#QueryOverwriteDialog QPushButton { margin-left: 0.5em; }
+QDialog QPushButton { min-width: 1.5em; }
 
 
 /* Fluent Regular: pale icons for dark themes.
